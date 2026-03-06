@@ -1,9 +1,9 @@
 # 💸 App de Finanças Pessoais Leandro Palavra com Vibe Coding
 
 
-#🎯 Entrega Desafio
+# 🎯 Entrega Desafio
 
-## 1. Segue o prompt final (PRD) usado com a IA para criar esse APP, pensando de uma maneira ampla e também criteriosa sobre alguns pontos. 
+1. Segue o prompt final (PRD) usado com a IA para criar esse APP, pensando de uma maneira ampla e também criteriosa sobre alguns pontos. 
 
 ```txt
 Crie um app de Finanças Pessoais Leandro Palavra com base no seguinte PRD (Product Requirements Document): 
