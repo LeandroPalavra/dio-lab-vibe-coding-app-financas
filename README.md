@@ -62,12 +62,13 @@ Podemos incluir nas aplicações, gráficos detalhados onde você possa enxergar
 
 ## 3. **Resumo**
 
-
+```txt
   - Esse App tem como objetivo fornecer clareza de gastos e receitas individuais ou familiar, com um diferencial, "os potes" (que são os valores que poupamos para gerenciar algumas atividades para a nossa saúde física, emocional e espiritual), eles nos dão uma visão de que podemos sim ter momentos de excelência, diversão e ainda aperfeiçoar o nosso conhecimento, com a certeza e conficção que os nosso recursos não serão afetados com isso. Visa também ter sugestões de investimentos de renda fixa e menos exigente em termos de conhecimento abrangemte.Você também pode criar algumas metas, que outrora não foram abrangidas nos potes. Fornecendo sempre os relatórios das REceitas e Despesas semre que solicitada.
 
 
 ## 4. **Reflexão**
 
+```txt
   - Para mim foi algo tão ilucidador, pois uma tecnolologia abriu minha mente para algumas outras veterntes que posteriormente colocarei em prática em relação a IA, pois se podemos fazer agentes que possam criar e pesquisar de conteúdos específicos direcionados pelo nosso comando, podemos sanar muitas daquelas alucinações outrora geradas por causa da busca de um vasto universo de informação.
   - Estou muito feliz e contente com o resultado, sei que aos poucos vou melhorando e criando com mais leveza e muito mais especificidade. Agradeço a cada professor e a cada treinador por dedicar seu tempo e sua expertise para nos ensinar.
 
