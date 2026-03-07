@@ -136,22 +136,19 @@ Acesse o prototipo no Lovable: https://vibe-your-finances.lovable.app/
 
 ---
 
-## 📊 Em resumo
+# 📊 Em resumo
+
 O app combina **simplicidade (chat para registro)**, **organização automática (potes e categorização)** e **visualização clara (dashboard e relatórios)**, criando uma experiência fluida para quem quer começar a controlar suas finanças sem complicação.
 
 
 
-### 🎯  4. **Reflexão**
+## 🎯  4. **Reflexão**
 
 
   - Para mim foi algo tão elucidador, pois uma tecnolologia abriu minha mente para algumas outras vertentes que posteriormente colocarei em prática em relação a IA, pois, se podemos fazer agentes que possam criar e pesquisar de conteúdos específicos direcionados pelo nosso comando, podemos sanar muitas daquelas alucinações outrora geradas por causa da busca de um vasto universo de informação.
   - Estou muito feliz e contente com o resultado, sei que aos poucos vou melhorando e criando com mais leveza e muito mais especificidade. Agradeço a cada professor e a cada treinador por dedicar seu tempo e sua expertise para nos ensinar.
   - Em se tratando agora da IA, eu percebi, entendi e compreendi que ela pode ser de grande valia, tanto na sintese, quanto na explanação de uma ideia, lógico com a condução humana e com os objetivos e caminhos claros.
   - Essa interação do Copilot com o Lovable, acrescentou muito mais destreza naquilo que parecia não ter tanta vida, pois as criação das imagens deram uma nova dimensão para a ideia e par ao ideal.
-  - Acredito que isso é apenas o começo, e que muito mais coisas iremos fazer e desenvovler com essa parceria. 
-
-
-###🎯  💬 Conclusão
-
-Como é maravilhoso poder aprender, mesmo que a intencionalidade da nossa realidade diga ao contrário, pois a criatividade e a criação está em todo tempo para ser apresentada. Mais uma vez, obrigado. 
+  - Acredito que isso é apenas o começo, e que muito mais coisas iremos fazer e desenvovler com essa parceria.
+  - Como é maravilhoso poder aprender, mesmo que a intencionalidade da nossa realidade diga ao contrário, pois a criatividade e a criação está em todo tempo para ser apresentada. Mais uma vez, obrigado. 
 
