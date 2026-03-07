@@ -58,20 +58,20 @@ Entregável da IA
 Podemos incluir nas aplicações, gráficos detalhados onde você possa enxergar cada gasto, ou cada receita individualmente. Como também, no chat, a inclusão ser feita na respectiva categoria, sem ter a necessidade de perguntar novamente. algo que seria interessante, podemos começar com um salário de R$5000,00 reais como salário, e receita Principal e depois, as demais receitas, como doações, caixinhas e demais recebimentos estivessem sendo incluídos no valor total de Receita.
 ```
 
-> ### 🎯 ## 2. **Interações com o Lovable**
+## 🎯  2. **Interações com o Lovable**
 
 1. Interações
 
-Primeira Interação: Foi a criação do PRD: {PRD Escrito e Refinado}
+**Primeira Interação:** Foi a criação do PRD: {PRD Escrito e Refinado}
 
-Segunda Interação: Teste o fluxo completo: faça login, registre o salário, envie gastos e receitas pelo chat, e verifique se tudo aparece no Dashboard, Potes e Relatórios
+**Segunda Interação:** Teste o fluxo completo: faça login, registre o salário, envie gastos e receitas pelo chat, e verifique se tudo aparece no Dashboard, Potes e Relatórios
 
-Terceira Interação: Adicione a funcionalidade de definir e acompanhar metas financeiras com barra de progresso e prazo
+**Terceira Interação:** Adicione a funcionalidade de definir e acompanhar metas financeiras com barra de progresso e prazo
 
 
-> ### 🎯 ## Resultado Final do nosso APP
+## 🎯  **Resultado Final do nosso APP**
 
-Acesse o prototipo no Lovable: https://vibe-your-finances.lovable.app/
+**Acesse o prototipo no Lovable:** https://vibe-your-finances.lovable.app/
 
 2. Segue o passo a passo de como acessar o App e suas funcionalidades:
    
@@ -86,7 +86,7 @@ Acesse o prototipo no Lovable: https://vibe-your-finances.lovable.app/
 
 
 
-### 🎯 3. **Resumo**
+## 🎯 3. **Resumo**
 
 
   - Esse App tem como objetivo fornecer clareza de gastos e receitas individuais ou familiar, com um diferencial, "os potes" (que são os valores que poupamos para gerenciar algumas atividades para a nossa saúde física, emocional e espiritual), eles nos dão uma visão de que podemos sim ter momentos de excelência, diversão e ainda aperfeiçoar o nosso conhecimento, com a certeza e conficção que os nosso recursos não serão afetados com isso. Visa também ter sugestões de investimentos de renda fixa e menos exigente em termos de conhecimento abrangemte.Você também pode criar algumas metas, que outrora não foram abrangidas nos potes. Fornecendo sempre os relatórios das Receitas e Despesas sempre que solicitada.
@@ -150,5 +150,9 @@ O app combina **simplicidade (chat para registro)**, **organização automática
   - Em se tratando agora da IA, eu percebi, entendi e compreendi que ela pode ser de grande valia, tanto na sintese, quanto na explanação de uma ideia, lógico com a condução humana e com os objetivos e caminhos claros.
   - Essa interação do Copilot com o Lovable, acrescentou muito mais destreza naquilo que parecia não ter tanta vida, pois as criação das imagens deram uma nova dimensão para a ideia e par ao ideal.
   - Acredito que isso é apenas o começo, e que muito mais coisas iremos fazer e desenvovler com essa parceria.
-  - Como é maravilhoso poder aprender, mesmo que a intencionalidade da nossa realidade diga ao contrário, pois a criatividade e a criação está em todo tempo para ser apresentada. Mais uma vez, obrigado. 
+  - Como é maravilhoso poder aprender, mesmo que a intencionalidade da nossa realidade diga ao contrário, pois a criatividade e a criação está em todo tempo para ser apresentada. Mais uma vez, obrigado.
+
+# 📊 Considerações Finais
+
+- Tudo que foi ensinado, mostrado e dito, nos leva a um novo patamar de não ficar paralisado naquilo que aprendemos, posi existem novos horizontes apresentados a cada amanhecer. Só quero agradecer a toda equipe DIO e a todos que proprocionaram isso. **O Senhor vos abençoe e vos guarde; o Senhor faça resplandecer o seu rosto sobre vós e tenha misericórdia de vós; o Senhor sobre vós levante o seu rosto e te dê a paz.** Obrigado. 
 
